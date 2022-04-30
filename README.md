@@ -21,5 +21,5 @@ A food order website where you can choose your meal and then you can get the mea
 
 ### Netlify Link
 
-https://dapper-salamander-a3a7f5.netlify.app
+chipper-chaja-3a9e1b.netlify.app
 
