@@ -21,7 +21,5 @@ A food order website where you can choose your meal and then you can get the mea
 
 ### Netlify Link
 
-### Netlify Link
-
 https://sage-dolphin-365e39.netlify.app
 
