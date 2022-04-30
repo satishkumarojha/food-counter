@@ -10,7 +10,6 @@ A food order website where you can choose your meal and then you can get the mea
 
 ---
 
----
 <h3>Features:<h3/>
   <ol>
     <li>Select foods</li>
